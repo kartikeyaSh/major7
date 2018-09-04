@@ -1,0 +1,6 @@
+keras==1.0.2
+h5py
+jupyter==1.0.0
+numpy==1.13.3
+progressbar2==3.9.3
+Theano==0.8.2
